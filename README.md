@@ -53,7 +53,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Yusufkarahan.com (My Own Startup)](https://yusufkarahan.com.tr/)
-- [Batuhanmedetoglu.com](https://batuhanmedetoglu.com/)
+- [Batuhanmedetoglu.com (Portfolio)](https://batuhanmedetoglu.com/)
 - [Sosyoprestij.com](https://sosyoprestij.com/)
 - [Bybagtoyou.com](https://bybagtoyou.com/)
 <!-- BLOG-POST-LIST:END -->
