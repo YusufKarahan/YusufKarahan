@@ -48,3 +48,14 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+### ✔️ Latest Projects
+
+<!-- BLOG-POST-LIST:START -->
+- [YusufKarahan.com (My Own Startup)](https://yusufkarahan.com.tr/)
+- [BATUHANMEDETOGLU.COM](https://batuhanmedetoglu.com/)
+- [Sosyoprestij.com](https://sosyoprestij.com/)
+- [Bybagtoyou.com](https://bybagtoyou.com/)
+<!-- BLOG-POST-LIST:END -->
+
+---
