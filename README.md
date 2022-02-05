@@ -52,8 +52,8 @@
 ### ✔️ Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [YusufKarahan.com (My Own Startup)](https://yusufkarahan.com.tr/)
-- [BATUHANMEDETOGLU.COM](https://batuhanmedetoglu.com/)
+- [Yusufkarahan.com (My Own Startup)](https://yusufkarahan.com.tr/)
+- [Batuhanmedetoglu.com](https://batuhanmedetoglu.com/)
 - [Sosyoprestij.com](https://sosyoprestij.com/)
 - [Bybagtoyou.com](https://bybagtoyou.com/)
 <!-- BLOG-POST-LIST:END -->
