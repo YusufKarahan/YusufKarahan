@@ -56,6 +56,7 @@
 - [Batuhanmedetoglu.com (Portfolio)](https://batuhanmedetoglu.com/)
 - [Sosyoprestij.com](https://sosyoprestij.com/)
 - [Bybagtoyou.com](https://bybagtoyou.com/)
+- [Remaxdinamik.com](https://remaxdinamik.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
